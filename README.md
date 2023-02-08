@@ -38,7 +38,7 @@ The IMDb Clone Movies App is an open-source project, and we welcome contribution
 <br>
 Following are some of the new features and learning encountered while creating this amazing project:
 
-- Write points here
+- Creating routes using the React-Router-DOM for redirecting the user to particular requested pages
 
 
 <br><br>
@@ -98,6 +98,9 @@ You can exclusively watch the video on this project from the making to deploying
 Follwing technologies have been used at the core of this application to make it stand in the market place:
 
 - TheMovieDB API
+- REACT JS
+- HTML
+- CSS
 
 
 <br><br>
