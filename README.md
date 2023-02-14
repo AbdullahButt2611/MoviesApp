@@ -39,6 +39,7 @@ The IMDb Clone Movies App is an open-source project, and we welcome contribution
 Following are some of the new features and learning encountered while creating this amazing project:
 
 - Creating routes using the React-Router-DOM for redirecting the user to particular requested pages
+- Using React-Loading-Skeleton to form the leading structure of the page while the data is being fetched.
 
 
 <br><br>
@@ -101,6 +102,7 @@ Follwing technologies have been used at the core of this application to make it 
 - REACT JS
 - HTML
 - CSS
+- React-loading-skeleton
 
 
 <br><br>
@@ -109,7 +111,7 @@ Follwing technologies have been used at the core of this application to make it 
 
 ### Advancement
 
-> Nothing Recommended Yet
+> App is not responsive to all type of screen. It is only for big screens yet. 
 
 <br><br>
 <!-- ................................................................................................................................. -->
