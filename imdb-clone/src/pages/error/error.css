@@ -1,0 +1,26 @@
+.error_main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    width: 100%;
+    color: white;
+    gap: 1.5rem;
+}
+
+.error_main h1{
+    font-size: 9rem;
+    color: #F6C800;
+    font-weight: bold;
+}
+
+.error_main span{
+    color: rgb(164, 0, 0);
+}
+
+.error_main p{
+    font-size: 3rem;
+    font-weight: bold;
+    color: rgb(89, 89, 89);
+}
